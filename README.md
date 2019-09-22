@@ -6,3 +6,5 @@ detect_cycle_directed.py -> DFS Coloring for Cycle Detection <br>
 minsumtriangle.py -> Given a triangle as Input. Find the shortest path [DP] <br>
 seiveoferatosthenes.py -> To find all the prime number till n [Seive of Eratosthenes] <br>
 inorder_levelorder.py -> Given inorder and levelorder, find the tree <br>
+star_pattern.py -> To print the 2-D star pattern <br>
+expression.py -> To evaluate infix, postfix and prefix <br>
