@@ -10,4 +10,5 @@ star_pattern.py -> To print the 2-D star pattern <br>
 expression.py -> To evaluate infix, postfix and prefix <br>
 Topological_Sorting.py -> Name says it all<br>
 klargeitems.py-> Implemented heap to find the k largest items in a list<br>
-MaxProductPartition.py -> Implemented a maximum product partition [DP Problem]
+MaxProductPartition.py -> Implemented a maximum product partition [DP Problem] <br>
+kmp.py -> KMP String Matching <br>
